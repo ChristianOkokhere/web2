@@ -316,7 +316,7 @@ line-height: 32px;
 color: #FFFFFF;
 }
 
-#clickhere {
+#bottom {
 position: absolute;
 width: 100%;
 height: 40px;
@@ -330,13 +330,23 @@ line-height: 40px;
 color: #FFFFFF;
 }
 
-/* visited link */
-a:visited {
-  color: #FFFFFF;
+#top a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+#top a:visited {
+  text-decoration: none;
+  color: #000000;
 }
 
 
-/* selected link */
-a:active {
+#bottom a:link {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+#bottom a:visited {
+  text-decoration: none;
   color: #FFFFFF;
 }

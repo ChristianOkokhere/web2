@@ -1,0 +1,47 @@
+nav {
+  font-family: Futura;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
+}
+
+h1 {
+  padding: 0px 15px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+}
+
+.nav-items > li {
+  padding: 15px 30px;
+}
+
+#top a:link {
+  color: #000000;
+  text-decoration: none;
+}
+
+#top a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+
+#pd a:link {
+  color: #000000;
+  text-decoration: none;
+}
+
+#pd a:visited {
+  color: #000000;
+  text-decoration: none;
+}
