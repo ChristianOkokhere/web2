@@ -1,2 +1,8 @@
 # web2
-the updated COVID-19 website that looks to redo the formating and the functionality of the original website 
+this is the second rendition of the COVID19 and race website that aims to use better looking HTML, CSS, and React to make the website flow better. 
+
+Contributions from:
+Christian Okokhere 
+Kevin Kong 
+Ethan Britt 
+Tyrell Harris 
